@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/record-viewer-and-aggregator-331032-331041/lwc_frontend"
+}
